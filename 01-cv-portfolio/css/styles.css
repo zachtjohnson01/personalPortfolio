@@ -159,17 +159,17 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 5. PORFOLIO SECTION
 --------------------------------- */
 
-.portfolio-section{ padding-bottom: 0; }
+.portfolio-section{ margin: 50px; padding-bottom: 0}
 
 .portfolio-section .portfolioFilter{ margin-top: 60px; color: #666; }
 
-.portfolio-section .portfolioFilter a{ margin: 10px 10px 0 0; }
+.portfolio-section .portfolioFilter a{ margin: 10px 10px 0px 0px; }
 
 .portfolio-section .portfolioFilter a.current{  color: #FFA804; }
 
-.portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; }
+.portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px;}
 
-.portfolio-section .p-item{ width: 33.333%; padding: 0 7.5px 0px; margin-top: 15px; }
+.portfolio-section .p-item{ width: 25%; padding: 0px 7.5px 0px; margin-top: 15px; }
 
 .portfolio-section .p-item a{ display: inline; }
 
