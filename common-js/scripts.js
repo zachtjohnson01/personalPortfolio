@@ -1,7 +1,7 @@
-
 (function ($) {
 
-    "use strict";
+	"use strict";
+
 	
 	
 
@@ -15,6 +15,7 @@
 	panelAccordian();
 
 	$(window).on('load', function(){
+
 		
 		// ISOTOPE PORTFOLIO WITH FILTER
 		if(isExists('.portfolioContainer')){
@@ -197,3 +198,5 @@ function isExists(elem){
 	}
 	return false;
 }
+
+

@@ -118,9 +118,9 @@
 
 	header .heading-wrapper{  padding: 30px 20px 20px; }
 
-	header .info .icon{ font-size: 25px; }
+	header .info .icon{ font-size: 25px; vertical-align: middle;}
 
-	header .info .right-area{ margin-left: 35px; }
+	header .info .right-area{ margin-left: 35px; vertical-align: middle;}
 
 }
 
@@ -141,9 +141,9 @@
 
 	header .heading-wrapper{  padding: 10px 15px 0px; }
 
-	header .info .icon{ font-size: 15px; }
+	header .info .icon{ font-size: 15px; vertical-align: middle;}
 
-	header .info .right-area{ margin-left: 20px; }
+	header .info .right-area{ margin-left: 20px; vertical-align: middle; }
 	
 	/* ---------------------------------
 	4. INTRO SECTION
